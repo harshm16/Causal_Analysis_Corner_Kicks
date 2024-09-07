@@ -1,0 +1,41 @@
+event_type_id,event_description
+1,Pass
+2,Offside Pass
+3,Take On
+4,Foul
+5,Out
+6,Corner Awarded
+7,Tackle
+8,Interception
+10,Save
+11,Claim
+12,Clearance
+13,Miss
+15,Attempt Saved
+16,Goal
+17,Card
+18,Player Off
+19,Player on
+27,Start delay
+28,End delay
+30,End
+32,Period start
+40,Formation change
+41,Punch
+43,Deleted event
+44,Aerial
+45,Challenge
+49,Ball recovery
+50,Dispossessed
+51,Error
+52,Keeper pick-up
+55,Offside provoked
+56,Shield ball opp
+57,Foul throw-in
+59,Keeper Sweeper
+61,Ball touch
+67,50/50
+68,Referee Drop Ball
+74,Blocked Pass
+82,Control
+83,Attempted Tackle

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="origin" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>01/02/2024</lastmodified>
+    </meta>
+    <nodes>
+      <node id="defense_type" label="defense_type" />
+      <node id="corner_type" label="corner_type" />
+      <node id="dynamic_movement" label="dynamic_movement" />
+      <node id="shot_attempt" label="shot_attempt" />
+      <node id="closely_marked" label="closely_marked" />
+      <node id="attacking_setup" label="attacking_setup" />
+    </nodes>
+    <edges>
+      <edge id="0" source="defense_type" target="closely_marked" weight="0.23592974264064023">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="defense_type" target="attacking_setup" weight="0.6634069354101219">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="corner_type" target="dynamic_movement" weight="0.2626553384382391">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="corner_type" target="shot_attempt" weight="0.2120498641710155">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="corner_type" target="attacking_setup" weight="1.2109237871882241">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="dynamic_movement" target="closely_marked" weight="0.45435913443034304">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="attacking_setup" target="dynamic_movement" weight="0.2206432792925396">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="defense_type" target="shot_attempt" weight="0.6">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="dynamic_movement" target="shot_attempt" weight="0.6">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="closely_marked" target="shot_attempt" weight="0.6">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="attacking_setup" target="shot_attempt" weight="0.6">
+        <attvalues>
+          <attvalue for="0" value="learned" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,629 @@
+defense_type,def_detail,corner_detail,corner_type,dynamic_movement,shot_attempt,closely_marked,attacking_setup,att_detail
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,1,0,3,Near post runs
+1,Zone,Inswinger,0,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,1,3,Near post runs
+1,Zone,Outswinger,1,0,1,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Inswinger,0,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,1,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+1,Zone,Inswinger,0,0,0,1,3,Near post runs
+1,Zone,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,0,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,1,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,0,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Inswinger,0,0,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,3,Near post runs
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,0,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,0,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,1,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,1,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,0,1,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,3,Near post runs
+1,Zone,Inswinger,0,1,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,1,2,Two way movement
+1,Zone,Inswinger,0,1,1,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,1,1,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,1,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,3,Near post runs
+1,Zone,Inswinger,0,0,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,0,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,1,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,3,Near post runs
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,1,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,0,3,Near post runs
+1,Zone,Inswinger,0,0,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,0,1,0,3,Near post runs
+1,Zone,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,0,Attackers start from near post
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+1,Zone,Inswinger,0,0,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,1,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+1,Zone,Outswinger,1,0,1,0,2,Two way movement
+1,Zone,Inswinger,0,0,0,1,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,0,1,0,3,Near post runs
+0,Man-Mark,Inswinger,0,0,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,0,0,0,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,1,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,0,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,0,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,0,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+1,Zone,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,0,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+1,Zone,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+1,Zone,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Outswinger,1,0,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+1,Zone,Outswinger,1,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,0,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,0,0,0,3,Near post runs
+1,Zone,Outswinger,1,0,0,0,3,Near post runs
+0,Man-Mark,Outswinger,1,1,1,0,2,Two way movement
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,2,Two way movement
+1,Zone,Outswinger,1,0,1,0,0,Attackers start from near post
+0,Man-Mark,Outswinger,1,1,1,1,2,Two way movement
+1,Zone,Inswinger,0,1,0,0,2,Two way movement
+1,Zone,Outswinger,1,1,0,0,0,Attackers start from near post
+1,Zone,Inswinger,0,0,0,0,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,0,1,2,Two way movement
+0,Man-Mark,Outswinger,1,1,0,1,3,Near post runs
+0,Man-Mark,Outswinger,1,1,0,0,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,0,1,1,2,Two way movement
+0,Man-Mark,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,1,0,3,Near post runs
+0,Man-Mark,Outswinger,1,0,1,0,3,Near post runs
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,1,1,1,Runs from deeper areas - to the back post
+1,Zone,Inswinger,0,1,1,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,0,1,Runs from deeper areas - to the back post
+0,Man-Mark,Outswinger,1,1,0,1,1,Runs from deeper areas - to the back post
+0,Man-Mark,Inswinger,0,1,0,1,0,Attackers start from near post
